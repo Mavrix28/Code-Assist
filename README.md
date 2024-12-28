@@ -1,4 +1,4 @@
-# CodeMate is an intelligent coding assistant designed to run locally, leveraging Ollama’s capabilities. It operates with Ollama running in the background on your device, providing seamless and secure code assistance.
+### CodeMate is an intelligent coding assistant designed to run locally, leveraging Ollama’s capabilities. It operates with Ollama running in the background on your device, providing seamless and secure code assistance.
 
 ### CodeMate
 
